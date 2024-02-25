@@ -1,0 +1,2 @@
+PySpark is an interface for Apache Spark in Python. PySpark supports most of Spark's features such as 
+Spark SQL, DataFrame, Streaming, MLlib and Spark Core.
